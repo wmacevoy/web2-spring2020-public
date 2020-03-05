@@ -1,5 +1,6 @@
 html {
-    background-color: bisque;
+    /* background-color: bisque; */
+    background-image: url('../img/octocat.png');
 }
 
 #cat {

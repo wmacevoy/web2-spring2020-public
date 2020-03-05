@@ -1,11 +1,20 @@
 html {
     background-color: bisque;
+/*    background-image: url('../img/octocat.png'); */
 }
 
-#cat {
+#meowmeow {
     width: 100px;
     height: 100px;
     position: absolute;
     left: 0px;
-    top: 0px;
+    top: 100px;
+}
+
+#sprinkles {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 400px;
+    top: 100px;
 }
